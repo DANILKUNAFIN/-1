@@ -1,4 +1,0 @@
-def simple_probability(m: int, n: int) -> float:
- if n == 0:
-    raise ValueError("Total outcomes (n) cannot be zero.")
-  return m / n
